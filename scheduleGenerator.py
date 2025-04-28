@@ -22,7 +22,7 @@ except ImportError:
     # Default configurations if config file is missing
     DEEPSEEK_API = {
         'url': 'https://api.deepseek.com/v1/chat/completions',
-        'key': 'sk-7f0789da4c6e4df783553d1a2fa2754e',
+        'key': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
         'model': 'deepseek-chat',
         'temperature': 0.1,
         'max_tokens': 4000
