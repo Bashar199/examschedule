@@ -1,0 +1,18 @@
+Exam Schedule Summary Report
+=============================
+
+- Total students processed: 10
+- Total exams scheduled: 57
+- Conflict Analysis:
+  - Students with detected conflicts: 0
+  - Same-day conflicts (should be 0): 0
+  - Back-to-back conflicts (1 day gap): 0
+- Temporal Spread:
+  - Avg. gap between student exams: 0.43 days
+  - Busiest day: 2025-06-04 (8 exams, 8 students)
+- Department Breakdown (estimated by prefix):
+  - CE: 16 exams, 0 conflicts
+  - ECE: 17 exams, 0 conflicts
+  - EEE: 22 exams, 0 conflicts
+  - Other: 2 exams, 0 conflicts
+- Policy Adherence (Min 1 days gap): Yes (Min gap 1 allows back-to-back)
